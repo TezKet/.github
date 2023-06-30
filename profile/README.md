@@ -1,6 +1,7 @@
 ## TezKet -- NFT Ticketing Platforms
 
-> NFTs are a decentralized way of tracking ownership, and a growing phenomenon in the digital asset. In the age of digital ticketing, when a ticket is often little more than a QR code on an invoice, can NFTs continue the tradition of the ticket surviving the event?
+> NFTs are a decentralized way of tracking ownership, and a growing phenomenon in the digital asset. <br/>
+> In the age of digital ticketing, when a ticket is often little more than a QR code on an invoice, can NFTs continue the tradition of the ticket surviving the event?
 
 <!--
 
